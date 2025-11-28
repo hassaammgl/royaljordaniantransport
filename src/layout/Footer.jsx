@@ -83,23 +83,23 @@ const Footer = () => {
           <div className="flex items-center">
             <Phone size={16} className="mr-2 text-gray-300" />
             <a
-              href="tel:850-123-5021"
+              href="tel:+1313-258-5571"
               aria-label="Our phone"
               title="Our phone"
               className="transition-colors duration-300 text-red-500 hover:text-red-700"
             >
-              850-123-5021
+              +1313-258-5571
             </a>
           </div>
           <div className="flex items-center">
             <Mail size={16} className="mr-2 text-gray-300" />
             <a
-              href="mailto:info@lorem.mail"
+              href="mailto:royaljordaniantransport@gamil.com"
               aria-label="Our email"
               title="Our email"
               className="transition-colors duration-300 text-red-500 hover:text-red-700"
             >
-              info@lorem.mail
+              royaljordaniantransport@gamil.com
             </a>
           </div>
           <div className="flex items-center">
@@ -112,7 +112,7 @@ const Footer = () => {
               title="Our address"
               className="transition-colors duration-300 text-red-500 hover:text-red-700"
             >
-              312 Lovely Street, NY
+              Dearborn, MI 48126
             </a>
           </div>
         </div>
