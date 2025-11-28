@@ -11,9 +11,8 @@ const services = [
     imgSrc: s1,
     title: "Dry Van Transportation",
     description:
-      "Long-haul and regional Dry Van freight shipping. Ideal for general cargo, packaged goods, and pallet shipments.",
-    tagline:
-      "SECURE, EFFICIENT, AND RELIABLE TRANSPORT FOR YOUR GENERAL FREIGHT NEEDS.",
+      "Reliable long-haul and regional Dry Van shipping for general cargo, packaged products, and palletized goods. Built for consistency and protected freight movement.",
+    tagline: "SECURE, EFFICIENT, AND PURPOSE-BUILT FOR YOUR EVERYDAY FREIGHT.",
   },
   {
     id: "state-to-state",
@@ -21,9 +20,9 @@ const services = [
     icon: MapPin,
     title: "State-to-State Freight Delivery",
     description:
-      "Reliable transportation covering almost all U.S. states with on-time delivery guarantees.",
+      "End-to-end transportation across nearly every U.S. state. We ensure dependable transit times, smooth coordination, and punctual arrivals.",
     tagline:
-      "CONNECTING BUSINESSES ACROSS STATE LINES WITH SPEED AND PRECISION.",
+      "SEAMLESS CONNECTIONS ACROSS STATE LINES WITH SPEED AND PRECISION.",
   },
   {
     id: "logistics",
@@ -31,9 +30,9 @@ const services = [
     icon: Package,
     title: "24/7 Dispatch",
     description:
-      "Our dedicated dispatch team is available around the clock to ensure seamless communication, real-time tracking, and immediate support for drivers and clients alike.",
+      "A fully dedicated dispatch team available around the clock to maintain continuous communication, real-time tracking, and immediate assistance for drivers and clients.",
     tagline:
-      "ALWAYS ON, ALWAYS AVAILABLE. KEEPING YOUR FREIGHT MOVING DAY AND NIGHT.",
+      "ALWAYS ACTIVE. ALWAYS READY. KEEPING YOUR LOAD MOVING WITHOUT INTERRUPTION.",
   },
 ];
 
