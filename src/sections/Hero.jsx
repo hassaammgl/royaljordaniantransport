@@ -26,13 +26,14 @@ const Hero = () => {
                 className="text-4xl leading-tight md:text-5xl lg:text-6xl font-extrabold mb-6 text-white"
                 splitType="words"
                 tag="h1"
-                text={"Reliable Dry Van Transportation Across 50+ U.S. States"}
+                text={"Royal Jordanian Transport"}
               />
               <SplitText
                 className="text-xl md:text-2xl mb-8 text-white/90"
                 splitType="words"
                 text={
-                  "We provide safe, professional, and nationwide long-haul trucking and logistics solutions."
+                  // "We provide safe, professional, and nationwide long-haul trucking and logistics solutions."
+                  "Connecting businesses through trusted transportation."
                 }
               />
               <Button

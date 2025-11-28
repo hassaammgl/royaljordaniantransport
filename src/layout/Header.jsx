@@ -30,7 +30,7 @@ const Header = () => {
               </div>
             </a>
 
-            <div className="hidden lg:flex items-center gap-6 justify-start">
+            <div className="flex items-center gap-6 justify-start">
               <div className="text-left">
                 <p className="text-xs text-gray-600">Call Us 24/7/365</p>
                 <a

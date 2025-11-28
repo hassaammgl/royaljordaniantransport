@@ -2,10 +2,11 @@ import fleetTrucks from "@/assets/fleet-trucks.png";
 
 const About = () => {
   return (
-    <section id="about" className="py-20 bg-white h-full">
+    <section id="about" className="py-20 bg-white">
       <div className="container mx-auto px-4">
         <div className="grid md:grid-cols-2 gap-12 items-center">
-          <div>
+          {/* Text Content */}
+          <div className="order-last md:order-first">
             <h2 className="text-3xl md:text-4xl font-bold mb-6 text-primary">
               About Our Company
             </h2>
@@ -28,11 +29,13 @@ const About = () => {
               </p>
             </div>
           </div>
-          <div className="order-first md:order-last hidden md:block">
+
+          {/* Image - now smaller & centered */}
+          <div className="flex justify-center md:justify-end">
             <img
               src={fleetTrucks}
               alt="Professional truck fleet"
-              className="w-full h-auto rounded-3xl"
+              className="w-full max-w-sm md:max-w-md lg:max-w-lg rounded-3xl shadow-2xl object-cover"
             />
           </div>
         </div>
