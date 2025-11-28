@@ -4,7 +4,6 @@ import s1 from "@/assets/s1.png";
 import s2 from "@/assets/s2.png";
 import s3 from "@/assets/s3.png";
 
-// const Services = () => {
 const services = [
   {
     id: "dry-van",
@@ -14,7 +13,7 @@ const services = [
     description:
       "Long-haul and regional Dry Van freight shipping. Ideal for general cargo, packaged goods, and pallet shipments.",
     tagline:
-      "WE ROAR WITH SUCCESS, DELIVERING THE TRIONN. THROUGH VERSATILE DESIGN, BRANDING AND THE LATEST TECH.",
+      "SECURE, EFFICIENT, AND RELIABLE TRANSPORT FOR YOUR GENERAL FREIGHT NEEDS.",
   },
   {
     id: "state-to-state",
@@ -24,17 +23,17 @@ const services = [
     description:
       "Reliable transportation covering almost all U.S. states with on-time delivery guarantees.",
     tagline:
-      "WE ROAR WITH SUCCESS, DELIVERING THE TRIONN. THROUGH VERSATILE DESIGN, BRANDING AND THE LATEST TECH.",
+      "CONNECTING BUSINESSES ACROSS STATE LINES WITH SPEED AND PRECISION.",
   },
   {
     id: "logistics",
     imgSrc: s3,
     icon: Package,
-    title: "Logistics & Load Handling",
+    title: "24/7 Dispatch",
     description:
-      "Safe cargo handling, on-time delivery, and experienced drivers with professional dispatch team support.",
+      "Our dedicated dispatch team is available around the clock to ensure seamless communication, real-time tracking, and immediate support for drivers and clients alike.",
     tagline:
-      "WE ROAR WITH SUCCESS, DELIVERING THE TRIONN. THROUGH VERSATILE DESIGN, BRANDING AND THE LATEST TECH.",
+      "ALWAYS ON, ALWAYS AVAILABLE. KEEPING YOUR FREIGHT MOVING DAY AND NIGHT.",
   },
 ];
 
