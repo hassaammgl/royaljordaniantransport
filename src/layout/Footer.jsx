@@ -164,7 +164,7 @@ const Footer = () => {
         </p>
         <ul className="flex flex-col mb-3 space-y-2 lg:mb-0 sm:space-y-0 sm:space-x-5 sm:flex-row">
           <li className="text-white">
-            Developed by <a href="www.linkedin.com/in/m-hassaam-mughal-91668a256" className="text-primary font-bold">Hassaam Mughal</a>
+            Developed by <a href="https://www.linkedin.com/in/m-hassaam-mughal-91668a256" className="text-primary font-bold">Hassaam Mughal</a>
           </li>
         </ul>
       </div>
