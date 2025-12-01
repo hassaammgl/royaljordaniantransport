@@ -7,6 +7,9 @@ import ups from "@/assets/ups.png";
 import arrive from "@/assets/arrive.png";
 import sche from "@/assets/sche.png";
 import landstar from "@/assets/landstar.png";
+import jb from "@/assets/JB.png"
+import ford from "@/assets/FORD.png"
+import gm from "@/assets/GM.png"
 
 const customers = [
   {
@@ -45,9 +48,24 @@ const customers = [
     imgSrc: sche,
   },
   {
-    name: "LAND STAR",
+    name: "FORD",
+    _id: crypto.randomUUID(),
+    imgSrc: ford,
+  },
+  {
+    name: "GENERAL MOTORS",
+    _id: crypto.randomUUID(),
+    imgSrc: gm,
+  },
+  {
+    name: "LANDSTAR",
     _id: crypto.randomUUID(),
     imgSrc: landstar,
+  },
+  {
+    name: "JB HUNT",
+    _id: crypto.randomUUID(),
+    imgSrc: jb,
   },
 ];
 
